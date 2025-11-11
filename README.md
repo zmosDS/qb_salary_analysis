@@ -21,12 +21,14 @@ To investigate whether higher quarterback pay correlates with better team perfor
 ## Files
 ```
 qb_salary_analysis/
-├── qb_salaries.ipynb # Main analysis notebook
-├── data/ # Cleaned salary and performance data
-├── figures/ # Plots used in README
-└── README.md # Project overview
+├── qb_salary_analysis.ipynb   # Jupyter notebook for QB salary and win analysis  
+├── qb_salary_clusters.png     # KMeans clustering visualization  
+├── qb_salaries.csv            # QB salary data 
+├── NFL_Salary_Cap.csv         # Annual NFL salary cap data  
+├── Team WL 10 years.csv       # Team win-loss records (10-year span) data
+└── README.md                  # Project overview and documentation 
 ```
 
 ## Data Source
-Self-compiled dataset using publicly available NFL salary and team performance data (2020–2023 seasons).
+Self-compiled dataset using publicly available NFL salary and team performance data from overthecap.com and sportrac.com.
 
