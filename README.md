@@ -10,8 +10,8 @@ To investigate whether higher quarterback pay correlates with better team perfor
 
 ## Built With
 - Python  
-- pandas, matplotlib, seaborn  
-- scikit-learn (K-Means clustering)
+- Pandas, Matplotlib, Seaborn
+- Scikit-learn (K-Means Clustering)
 
 ## Features
 - Salary vs. win percentage scatter plots (absolute and cap-adjusted)  
